@@ -21,11 +21,25 @@ The project is organized into the following main components:
 
 ## Screenshots
 
-![Add Task](https://github.com/benzinamohamed/My-todo-app/blob/main/photo_5954117754221084756_y.jpg)
-
-
-![Edit Task](https://github.com/benzinamohamed/My-todo-app/blob/main/photo_5954117754221084757_y.jpg)
-
-![Delete Task](https://github.com/benzinamohamed/My-todo-app/blob/main/photo_5954117754221084758_y.jpg)
-
-![Completed Task](https://github.com/benzinamohamed/My-todo-app/blob/main/photo_5954117754221084759_y.jpg)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/benzinamohamed/My-todo-app/blob/main/photo_5954117754221084756_y.jpg" alt="Add Task" width="300"/>
+      <p style="text-align: center;">Adding a new task.</p>
+    </td>
+    <td>
+      <img src="https://github.com/benzinamohamed/My-todo-app/blob/main/photo_5954117754221084757_y.jpg" alt="Edit Task" width="300"/>
+      <p style="text-align: center;">Editing an existing task.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/benzinamohamed/My-todo-app/blob/main/photo_5954117754221084758_y.jpg" alt="Delete Task" width="300"/>
+      <p style="text-align: center;">Deleting a task.</p>
+    </td>
+    <td>
+      <img src="https://github.com/benzinamohamed/My-todo-app/blob/main/photo_5954117754221084759_y.jpg" alt="Completed Task" width="300"/>
+      <p style="text-align: center;">Marking a task as completed.</p>
+    </td>
+  </tr>
+</table>
