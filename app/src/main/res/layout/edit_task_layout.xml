@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/edit_task_bg">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="EDIT TASK!"
+        android:textStyle="bold"
+        android:textSize="36dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:layout_margin="20dp"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/battomsheet_text_bg"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:padding="20dp"
+        android:id="@+id/edit_task_layout_et"
+        android:layout_margin="10dp"
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Done"
+        android:textColor="@color/white"
+        android:textSize="18dp"
+        android:backgroundTint="@color/blue"
+        android:layout_margin="20dp"
+        android:id="@+id/edit_task_layout_button"
+        />
+
+
+</LinearLayout>
